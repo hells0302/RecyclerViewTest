@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/setting"
+    android:icon="@mipmap/ic_launcher_round"
+    android:title="复杂布局"
+    app:showAsAction="never"
+    />
+    <item android:id="@+id/listView"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="listView"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/gridView"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="gridView"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/hor_listView"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="hor_listView"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/hor_gridView"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="hor_gridView"
+        app:showAsAction="never"
+        />
+</menu>
